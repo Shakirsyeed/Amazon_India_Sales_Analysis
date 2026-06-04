@@ -226,7 +226,7 @@ A Power BI dashboard has been built using the same dataset with the following pa
 
 ## 👤 About the Author
 
-**Shakir Syeed** — Aspiring Data Analyst from India
+**Shakir Syeed** — Data Analyst from India
 
 Passionate about turning raw data into real business decisions using Python, SQL, and Power BI.
 
