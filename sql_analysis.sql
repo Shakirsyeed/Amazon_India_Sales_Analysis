@@ -1,6 +1,6 @@
 -- ================================================================
 -- AMAZON INDIA SALES — SQL ANALYSIS QUERIES
--- Tool: PostgreSQL / MySQL / SQLite compatible
+-- Tool:  / MySQL / SQLite compatible
 -- Author: Shakir Syeed
 -- ================================================================
 
